@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "cdk8s": "^1.8.12",
-    "cdk8s-plus-22": "^1.0.0-beta.20",
+    "cdk8s-plus-22": "^1.0.0-beta.222",
     "constructs": "^3.3.161"
   },
   "devDependencies": {
